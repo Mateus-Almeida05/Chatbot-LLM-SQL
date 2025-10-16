@@ -1,3 +1,5 @@
+<img width="832" height="560" alt="image" src="https://github.com/user-attachments/assets/bff77bf9-bb43-4e2d-beff-8cd1c263e30b" />
+
 # **Chatbot with SQLite, LangChain and Hugging Face**
 
 ## **1\. Introduction**
